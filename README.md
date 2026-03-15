@@ -49,15 +49,27 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
-Tabulation for Load Test:
+![Tabulation for Open Circuit Test](OCC_table.jpeg)
 
-Model graph:
+Tabulation for Load Test
+
+![Tabulation for Open Circuit Test](LCC_table.jpeg)
+
+Model graph
+
+![Model graph](OCC_graph.jpeg)
+
+![Model graph](LCC_graph.jpeg)
+
 Calculation: 
 
 Open circuit characteristics
 
-  
+ ![Calculation](BEEE_EXP2.1.pdf) 
+
 Load Characteristics:
- 
+
+![Calculation](BEEE_EXP2.2.pdf) 
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
