@@ -59,7 +59,7 @@ Model graph
 
 ![Model graph](OCC_graph.jpeg)
 
-![Model graph](LCC_graph.jpeg)
+![Model graph](LCC_graph_new.jpeg)
 
 Calculation: 
 
