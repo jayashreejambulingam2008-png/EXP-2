@@ -65,11 +65,11 @@ Calculation:
 
 Open circuit characteristics
 
- ![Calculation](BEEE_EXP2.1.pdf) 
+![Calculation](OCC.jpeg)
 
 Load Characteristics:
 
-![Calculation](BEEE_EXP2.2.pdf) 
+ 
 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
